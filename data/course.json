@@ -1,0 +1,32 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Discrete Mathematics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "546c3599-cb76-b2ad-2d8c-eb6f0da61797"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Algebraic Combinatorics",
+  "course_description": "This course covers the applications of algebra to combinatorics. Topics include enumeration methods, permutations, partitions, partially ordered sets and lattices, Young tableaux, graph theory, matrix tree theorem, electrical networks, convex polytopes, and more.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.212",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Online Textbook",
+    "Problem Sets"
+  ],
+  "title": "Course Metadata"
+}
